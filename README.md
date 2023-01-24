@@ -1,4 +1,4 @@
-"# PHP & MySQL with AdminLTE Template" 
+# PHP & MySQL with AdminLTE Template
 
 This project is Developed for Twitter-Auth ( Login Page ) with Firebase
 
